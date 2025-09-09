@@ -181,7 +181,7 @@ Design an AI model for multilingual translation that addresses:
 - Real-time processing requirements
 
 ### 2. Solution Approach
-- **AI Model Selection**: Groq Llama 3.1 70B for superior multilingual capabilities
+- **AI Model Selection**: Groq qwen/qwen3-32b for superior multilingual capabilities
 - **Architecture Design**: Modular, scalable web application
 - **User Experience**: Intuitive interface with advanced features
 - **Performance Optimization**: Efficient API design and caching strategies

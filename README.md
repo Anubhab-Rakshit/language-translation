@@ -251,18 +251,11 @@ This project is created for academic purposes. Please respect the terms of use f
 
 ## 🙏 Acknowledgments
 
-- **Groq**: For providing the Llama 3.1 70B model API
+- **Groq**: For providing the qwen/qwen3-32b model API
 - **Vercel**: For the AI SDK and deployment platform
 - **shadcn/ui**: For the beautiful UI component library
 - **Next.js Team**: For the excellent React framework
 
-## 📞 Contact
-
-For academic inquiries or project questions, please contact through the course platform or create an issue in this repository.
-
----
-
-**Project Status**: ✅ Complete - Ready for Academic Submission
 
 **Last Updated**: December 2024
 

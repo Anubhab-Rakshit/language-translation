@@ -106,7 +106,7 @@ app/api/
 ### Data Flow
 1. **User Input** → Frontend validation and preprocessing
 2. **API Request** → Backend route handlers
-3. **AI Processing** → Groq Llama 3.1 70B model
+3. **AI Processing** → Groq qwen/qwen3-32b model
 4. **Response Processing** → Confidence scoring and alternatives
 5. **UI Update** → Display results with metrics
 

@@ -501,14 +501,7 @@ export function TranslationInterface() {
           <Badge variant="outline">Batch Processing</Badge>
           <Badge variant="outline">Analytics</Badge>
         </div>
-        <div className="mt-4">
-          <Link
-            href="/demo"
-            className="text-accent hover:text-accent/80 text-sm font-medium underline underline-offset-4"
-          >
-            View Project Documentation & Demo →
-          </Link>
-        </div>
+     
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">

@@ -10,7 +10,7 @@ This project demonstrates the design and implementation of an AI-powered multili
 
 ### Core Translation Capabilities
 - **50+ Language Support**: Comprehensive coverage across 6 major world regions
-- **AI-Powered Translation**: Uses Groq's Llama 3.1 70B model for high-accuracy translations
+- **AI-Powered Translation**: Uses Groq's qwen/qwen3-32b model for high-accuracy translations
 - **Auto Language Detection**: Automatically identifies source language using AI
 - **Transliteration Support**: Convert text between different scripts while preserving pronunciation
 - **Context-Aware Processing**: Maintains meaning and cultural context in translations
@@ -27,7 +27,7 @@ This project demonstrates the design and implementation of an AI-powered multili
 ### Technical Architecture
 - **Frontend**: Next.js 14 with TypeScript and Tailwind CSS
 - **Backend**: Next.js API routes with AI SDK integration
-- **AI Engine**: Groq Llama 3.1 70B for translation processing
+- **AI Engine**: Groq qwen/qwen3-32b for translation processing
 - **UI Components**: shadcn/ui component library
 - **State Management**: React hooks with local state management
 
@@ -73,12 +73,6 @@ This project demonstrates the design and implementation of an AI-powered multili
 4. Click "Translate" to get the translation with confidence metrics
 5. View alternative translations if enabled
 
-### Batch Translation
-1. Navigate to the "Batch Translation" tab
-2. Upload a text file (.txt) or manually add texts
-3. Configure source and target languages
-4. Click "Translate X Items" to process all texts
-5. Export results to CSV for further analysis
 
 ### Analytics Dashboard
 1. Go to the "Analytics" tab to view:

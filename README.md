@@ -239,9 +239,6 @@ This is an academic project, but contributions for educational purposes are welc
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is created for academic purposes. Please respect the terms of use for all integrated services (Groq, etc.).
 
 ## 🙏 Acknowledgments
 
@@ -250,9 +247,5 @@ This project is created for academic purposes. Please respect the terms of use f
 - **shadcn/ui**: For the beautiful UI component library
 - **Next.js Team**: For the excellent React framework
 
-
-**Last Updated**: December 2024
-
-**Course**: Language Translation Systems
 
 **Technology Stack**: Next.js, TypeScript, Tailwind CSS, Groq AI, Vercel AI SDK
